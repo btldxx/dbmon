@@ -123,3 +123,4 @@ sudo ldconfig
 
 7.创建诊断报告保存目录 
 mkdir -p /opt/dbmon/templates/oracle_report/
+
